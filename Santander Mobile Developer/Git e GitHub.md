@@ -3,15 +3,25 @@ Já o GitHub,é um repositório remoto, ou seja, hospedagem de repositório do g
 
 **Temas abordados:**
   *-SHA1*
+
   *-Token*
+
   *-Linha de comando*
+
   *-Tracked*
+
   *-Untracked*
+
   *-Unmodified*
+
   *-Modified*
+
   *-Stage*
+
   *-Conflito murge*
+
   *-Remote Repository*
+
   *-Local Repository*
 
 O Git e GitHub foi ministrado pelo **Otávio Reis**, dando clareza em como funciona o git e github, passando o passo a passo das funcionalidades, de como funciona o git bash, dos comandos do git, de como obter o SHA1.
